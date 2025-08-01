@@ -80,7 +80,7 @@ src/
 ### 🌐 Live Demo
 
 Experience Financier AI live:  
-👉 *(Replace with your actual deployment link)*
+  *[Live Demo 👉](https://ai-budget-guide.lovable.app)*
 
 ### Using Node.js (with serve)
 ```bash```
