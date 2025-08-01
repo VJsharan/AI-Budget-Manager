@@ -84,11 +84,11 @@ Experience Financier AI live:
 
 ### Using Node.js (with serve)
 ```bash```
-```# If you don't have serve, install it globally```
-```npm install -g serve```
+```# If you don't have serve, install it globally```<br>
+```npm install -g serve```<br>
 
-```# Run the server from the project's root directory```
-```serve . -p 5000```
+```# Run the server from the project's root directory```<br>
+```serve . -p 5000```<br>
 
 🎯 Future Roadmap
 
