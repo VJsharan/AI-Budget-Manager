@@ -1,4 +1,4 @@
-# Financier AI v1.0
+# AI-Budget-Manager v1.0
 
 **Intelligent Personal Finance Tracker** - Take control of your finances with a smart budget manager that leverages AI to provide actionable insights, spending forecasts, and personalized recommendations.
 
