@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+# GitHub InsightHub v1.0
 
-## Project info
+**AI-Enhanced GitHub Analytics Dashboard** – Unlock deep insights into developer activity, repository performance, and collaboration dynamics with advanced visualizations and intelligent analytics.
 
-**URL**: https://lovable.dev/projects/c3ccfa08-fbf0-43a0-8667-2d109e77e316
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+### 📊 Core Analytics
 
-**Use Lovable**
+- **Developer Profile Insights** – In-depth analysis of user profiles, including activity trends and contribution patterns.
+- **Repository Metrics** – Comprehensive statistics on repositories, such as stars, forks, issues, and pull requests.
+- **Commit History Visualization** – Interactive timeline showcasing commit activity over time.
+- **Language Usage Breakdown** – Detailed statistics on programming language usage across repositories.
+- **Collaboration Network** – Visual representation of contributor interactions and collaboration patterns.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c3ccfa08-fbf0-43a0-8667-2d109e77e316) and start prompting.
+### 🤖 AI-Powered Analytics
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Developer Behavior Profiling** – AI-driven analysis of developer behavior, including:
+  - **Engagement Score** – Measures community interaction and responsiveness.
+  - **Consistency Score** – Assesses regularity of contributions.
+  - **Innovation Score** – Evaluates the adoption of new technologies and methodologies.
+  - **Collaboration Score** – Analyzes involvement in team projects and open-source contributions.
+  - **Leadership Score** – Identifies leadership roles and initiative-taking behaviors.
 
-**Use your preferred IDE**
+- **Work Pattern Recognition** – AI identifies and classifies work habits, such as:
+  - **Peak Activity Hours** – Detects optimal coding times.
+  - **Work Style Classification** – Categorizes work habits (e.g., solo contributor, team player).
+  - **Session Length Analysis** – Estimates average coding session durations.
+  - **Burnout Risk Assessment** – Evaluates potential burnout based on activity patterns.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Smart Recommendations** – Personalized suggestions for:
+  - **Skill Development** – Identifies areas for skill enhancement.
+  - **Project Opportunities** – Recommends projects based on interests and expertise.
+  - **Productivity Tools** – Suggests tools and practices to improve efficiency.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Predictive Analytics** – AI forecasts future trends, including:
+  - **Technology Adoption** – Predicts emerging technologies to explore.
+  - **Activity Growth** – Estimates future contribution levels.
+  - **Collaboration Expansion** – Anticipates potential for increased collaboration.
 
-Follow these steps:
+### 🎨 User Experience
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Intuitive Interface** – User-friendly design with a focus on usability and accessibility.
+- **Customizable Themes** – Dark and light mode options with theme customization.
+- **Interactive Dashboards** – Real-time data visualization with interactive elements.
+- **Responsive Design** – Optimized for various devices, including desktops, tablets, and smartphones.
+- **Accessibility Features** – WCAG 2.1 compliant for inclusive user experience.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### ⚡ Performance & Scalability
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Optimized Performance** – Efficient data processing and rendering for smooth user experience.
+- **Scalable Architecture** – Designed to handle large datasets and high traffic volumes.
+- **Robust Error Handling** – Comprehensive error management and user-friendly notifications.
+- **SEO Best Practices** – Implemented structured data and meta tags for improved search engine visibility.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🛠️ Technology Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Frontend
 
-**Use GitHub Codespaces**
+- **React.js** – Component-based UI library for building interactive user interfaces.
+- **D3.js** – JavaScript library for producing dynamic, interactive data visualizations.
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
+- **Chart.js** – Simple yet flexible JavaScript charting library for data visualization.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Backend
 
-## What technologies are used for this project?
+- **Node.js** – JavaScript runtime for building scalable network applications.
+- **Express.js** – Web application framework for Node.js, simplifying routing and middleware integration.
+- **MongoDB** – NoSQL database for storing user and repository data.
+- **GitHub API** – Integration with GitHub's REST API for fetching repository and user data.
 
-This project is built with:
+### AI & Analytics
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **TensorFlow.js** – JavaScript library for training and deploying machine learning models in the browser.
+- **Natural Language Processing (NLP)** – Techniques for analyzing and understanding developer behavior and contributions.
+- **Predictive Modeling** – Machine learning algorithms for forecasting trends and behaviors.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/c3ccfa08-fbf0-43a0-8667-2d109e77e316) and click on Share -> Publish.
+## 🎯 Usage
 
-## Can I connect a custom domain to my Lovable project?
+1. **Clone the Repository**
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+   ```bash
+   git clone https://github.com/yourusername/github-insight-hub.git
+   cd github-insight-hub
